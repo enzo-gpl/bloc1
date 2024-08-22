@@ -5,7 +5,7 @@
 	- POST: La méthode POST est plus sécurisé. Les paramètres URL sont dans la requête HTTP pour le serveur. La portée des requêtes POST est illimitée, et est plus fléxible, car cette méthode permet aussi de pouvoir envoyer des photo ou vidéo.
 
 ## 2 – Comparaison méthodes
-|GET  					|POST |
+|                        |GET  					|POST |
 |-----------------------|----------------------|-----------|
 |sécurisé|non  					|oui|
 |pratique|oui  					|non|
