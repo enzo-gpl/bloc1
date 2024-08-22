@@ -18,3 +18,5 @@
 ##### - Après la connection a un site, le serveur ne se souvien plus de nous, donc entre 2 requête, il ne sait pas que sait la même personne. Pour contré ca il y a les cookie de session, et les ID de session dans les serveurs qui se créer l'or de la première connection au site afin qu'il se souvienne de nous.
 
 ## 5
+##### - Dans une URL il y a le Scheme (protocole) donc souvent appeler http ou https, ensuite vien le Host, puis après le Domaine (DNS) donc le nom du domaine, ensuite il y a la Zone DNS représenté souvent par ".com" mais aussi par ".fr". Après il y a le numéro du Port, puis le Path. Et après il y a le Query string, et pour finir, le Fragment.
+                
