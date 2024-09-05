@@ -28,3 +28,10 @@
 
 ## 7 – Négociation de contenu
 ##### - Lorsqu'un client souhaite obtenir une ressource, il la demande via une URL. Le serveur choisi ensuite l'une des variante disponible en utilisant alors cette URL. Une variante est appelé une représentation. Ce qui permet au serveur de r'envoyer les ressource demandé par le client. ![Capture d’écran 2024-08-22 185520](https://github.com/user-attachments/assets/d8ec9b0c-a7cc-4ecb-aeb7-6db2ab95ce7a)
+
+## 8 - CURL
+#### ![Capture](https://github.com/user-attachments/assets/ee5d153e-2448-431b-81a0-41ee11517631)
+
+
+
+
