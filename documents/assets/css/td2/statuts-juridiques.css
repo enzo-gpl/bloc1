@@ -1,24 +1,20 @@
 body {
 	font-family: sans-serif;
 	margin: auto;
-	max-width: 700px;
+	max-width: 1000px;
 	text-align: justify;
 
-span {
-	color: brown;
-
-}
-
 p1 {
-	background-color: rgb(247, 247, 247);
-	padding: 10px;
 	display: inline-block;
-	margin: 0 auto;
 	font-size: 18px;
 	width: 98%;
 }
 
+p2 {
+	display: inline-block;
+	font-size: 32px;
+	width: 98%;
 
-
-
-
+th {
+	padding: 10px;
+}
