@@ -33,16 +33,20 @@ th {
     color: black;
 }
 
-tr:nth-child(even) {
-    background-color: #f2f2f2;
-}
+
 
 tr:hover {
-    background-color: #e0e0e0;
+    background-color: lightblue;
 }
+
+
 
 p2 {
 	display: inline-block;
 	font-size: 32px;
 	width: 98%;
 
+color {
+	background-color: #f4f4f4;
+	color: black;
+}
