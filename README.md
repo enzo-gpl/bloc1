@@ -1,6 +1,6 @@
 # 🙋‍♂️HI My name is Enzo
-## Concept git
+## The Block 1 is made for the exercises of TD1, TD2, and TD3.
 ## Bases de la prog web
-  - HTTP
-  - Serveurs web
-  - Update
+  - I really like cars, especially BMW !
+  - I play video games from time to time.🎮
+  - I pay attention to ecology.🌳
