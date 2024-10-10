@@ -1,0 +1,52 @@
+body {
+	font-family: sans-serif;
+	margin: auto;
+	max-width: 1200px;
+	text-align: justify;
+
+p1 {
+	display: inline-block;
+	font-size: 18px;
+	width: 98%;
+}
+
+p2 {
+	display: inline-block;
+	font-size: 32px;
+	width: 98%;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse; /* Supprime les espaces entre les cellules */
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+    color: black;
+}
+
+
+
+tr:hover {
+    background-color: lightblue;
+}
+
+
+
+p2 {
+	display: inline-block;
+	font-size: 32px;
+	width: 98%;
+
+color {
+	background-color: #f4f4f4;
+	color: black;
+}
