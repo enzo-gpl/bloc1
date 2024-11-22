@@ -1,0 +1,38 @@
+.tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.bulle {
+    display: inline-block; /* Permet à la bulle de s'ajuster au texte */
+    padding: 10px 20px; /* Espacement autour du texte */
+    background-color: #ff5733; /* Couleur de fond de la bulle */
+    border-radius: 8px; /* Coins arrondis pour un effet plus doux */
+    border: 2px solid #ccc; /* Bordure autour de la bulle */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Ombre douce pour l'effet de profondeur */
+    font-size: 16px; /* Taille du texte */
+    color: #333; /* Couleur du texte */
+    max-width: 300px; /* Largeur maximale pour ne pas trop étirer la bulle */
+    word-wrap: break-word; /* S'assure que le texte long se découpe proprement */
+    position: absolute;
+    top: 50px;
+    text-align: center;
+}
+
+body {
+    background-image: url('df-min.jpg');
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+ .bulle1 {
+    color: purple;
+ }
+
+ hb {
+    font-weight: bold;
+ }

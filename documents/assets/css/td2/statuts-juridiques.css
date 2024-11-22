@@ -34,11 +34,9 @@ th {
 }
 
 
-
 tr:hover {
     background-color: lightblue;
 }
-
 
 
 p2 {
@@ -46,7 +44,7 @@ p2 {
 	font-size: 32px;
 	width: 98%;
 
-color {
+.color {
 	background-color: #f4f4f4;
 	color: black;
 }
